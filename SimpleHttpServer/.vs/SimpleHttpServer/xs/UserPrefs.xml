@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{763CA773-D07F-409C-8F91-21F56EC03D72}|Default">
+  <MonoDevelop.Ide.ItemProperties.SimpleHttpServer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SimpleHttpServer/DvaReplyManager.cs">
+    <Files>
+      <File FileName="SimpleHttpServer/Program.cs" Line="143" Column="59" />
+      <File FileName="SimpleHttpServer/DvaReplyManager.cs" Line="58" Column="27" />
+      <File FileName="SimpleHttpServer/ScheduledItem.cs" />
+      <File FileName="SimpleHttpServer/ScheduledRtdmDatabase.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|anycpu" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

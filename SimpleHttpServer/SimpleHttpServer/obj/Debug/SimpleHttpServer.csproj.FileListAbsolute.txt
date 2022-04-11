@@ -1,0 +1,6 @@
+/Users/omerkhan/Desktop/Udemy - C#/httpServer/SimpleHttpServer/SimpleHttpServer/bin/Debug/SimpleHttpServer.exe
+/Users/omerkhan/Desktop/Udemy - C#/httpServer/SimpleHttpServer/SimpleHttpServer/bin/Debug/SimpleHttpServer.pdb
+/Users/omerkhan/Desktop/Udemy - C#/httpServer/SimpleHttpServer/SimpleHttpServer/obj/Debug/SimpleHttpServer.csproj.AssemblyReference.cache
+/Users/omerkhan/Desktop/Udemy - C#/httpServer/SimpleHttpServer/SimpleHttpServer/obj/Debug/SimpleHttpServer.csproj.CoreCompileInputs.cache
+/Users/omerkhan/Desktop/Udemy - C#/httpServer/SimpleHttpServer/SimpleHttpServer/obj/Debug/SimpleHttpServer.exe
+/Users/omerkhan/Desktop/Udemy - C#/httpServer/SimpleHttpServer/SimpleHttpServer/obj/Debug/SimpleHttpServer.pdb
